@@ -1,6 +1,6 @@
 # 🧠 FB-SentiAnalyzer - Fcaebook Sentiment Classifier
 
-**FB-SentiAnalyzer** is a machine learning project that classifies the sentiment of tweets as **Positive (1)** or **Neutral (0)** or **Negative (2)**  using the **fb_sentiment.csv** dataset. It uses natural language processing (NLP) and logistic regression to train a model that can analyze comments tone and predict sentiment in real time.
+**FB-SentiAnalyzer** is a machine learning project that classifies the sentiment of facebook comments as **Positive (1)** or **Neutral (0)** or **Negative (2)**  using the **fb_sentiment.csv** dataset. It uses natural language processing (NLP) and logistic regression to train a model that can analyze comments tone and predict sentiment in real time.
 
 ---
 
